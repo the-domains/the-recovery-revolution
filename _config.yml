@@ -1,7 +1,7 @@
 name: The Recovery Revolution
 favicon: null
-layout_spectrum: 0.25329335150308907
-typography_spectrum: 0.25286225439049304
+layout_spectrum: 0.24614
+typography_spectrum: 0.35993
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.46068582660518587
-  lightness: 0.04144180263392627
-  saturation: 0.13521760166622698
-  rhythmicContrast: 0.6697199263144284
+    - '#000000'
+    - '#71777c'
+    - '#01c60e'
+    - '#ff28a7'
+    - '#015e07'
+  brandStrength: 0.6875
+  lightness: 1
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
